@@ -1,5 +1,4 @@
-https:
-  port: "8082"
-  host: "localhost"
+http:
+  port: "8081"
 response:
   message: "this from development yaml file"
